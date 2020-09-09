@@ -12,6 +12,9 @@ node_modules
 build
 dist
 
+# parcel
+.parcel-cache
+
 # misc
 .DS_Store
 .env
