@@ -4,8 +4,7 @@
   "description": "JavaScript and TypeScript example starter project",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html --dist-dir dist"
+    "start": "parcel index.html --open"
   },
   "dependencies": {},
   "devDependencies": {
